@@ -1,4 +1,5 @@
 # Crash-Severity-Classifier
+![header](crash_header.png)
 **Data science project built using New York State DMV data which predicts crash severity.**
 
 In this repo you will find the following files:
