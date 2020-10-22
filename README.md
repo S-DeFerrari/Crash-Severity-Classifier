@@ -9,7 +9,7 @@ In this repo you will find the following files:
 
 [The data](https://www.kaggle.com/new-york-state/nys-motor-vehicle-crashes-and-insurance-reduction) used in this project comes from Kaggle and was originally uploaded by the State of New York. 
 
-# Tableau Dashboard 
+## Tableau Dashboard 
 ![Screenshot](tableau_dash.png)
 Please take a look at the [dashboard](https://public.tableau.com/profile/stephen.deferrari#!/vizhome/Project3_15965979112260/Dashboard1) I made for this project as well. 
 
