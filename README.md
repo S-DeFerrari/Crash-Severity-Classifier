@@ -1,6 +1,6 @@
 # Crash-Severity-Classifier
 ![header](crash_header.png)
-**Data science project built using New York State DMV data to predicts crash severity.**
+**Data science project built using New York State DMV data to predict crash severity.**
 
 In this repo you will find the following files:
 * [My powerpoint presentation](https://github.com/S-DeFerrari/Crash-Severity-Classifier/blob/master/Predicting%20Crash%20Severity%20in%20New%20York%20State%20(1).pdf) on this project going over each step of the process as well as my results. This is the best place to start. 
