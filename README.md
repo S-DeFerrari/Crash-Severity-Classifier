@@ -15,3 +15,7 @@ In this repo you will find the following files:
 Please take a look at the [dashboard](https://public.tableau.com/profile/stephen.deferrari#!/vizhome/Project3_15965979112260/Dashboard1) I made for this project as well. 
 
 Thank you for looking through my work, let me know if you have any comments or questions.
+
+## Streamlit App 
+See below for a demo of the streamlit app I created using the model trained for this project. I further put the app inside of a docker image for ease of running. The clip is from a test container deployment on [Play with Docker](https://labs.play-with-docker.com/)
+![demo](app_gif.gif)
