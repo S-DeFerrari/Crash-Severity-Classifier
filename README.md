@@ -17,5 +17,7 @@ Please take a look at the [dashboard](https://public.tableau.com/profile/stephen
 Thank you for looking through my work, let me know if you have any comments or questions.
 
 ## Streamlit App 
-See below for a demo of the streamlit app I created using the model trained for this project. I further put the app inside of a docker image for ease of running. The clip is from a test container deployment on [Play with Docker](https://labs.play-with-docker.com/)
+See below for a demo of the streamlit app I created using the model trained for this project. I further put the app inside of a docker image for ease of running. The screenshots and clip are from a test container deployment on [Play with Docker](https://labs.play-with-docker.com/). 
+![demo](ss1.png)
+![demo](ss2.png)
 ![demo](app_gif.gif)
