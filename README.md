@@ -17,7 +17,7 @@ Please take a look at the [dashboard](https://public.tableau.com/profile/stephen
 Thank you for looking through my work, let me know if you have any comments or questions.
 
 ## Streamlit App 
-See below for a demo of the streamlit app I created using the model trained for this project. I further put the app inside of a docker image for ease of running. The screenshots and clip are from a test container deployment on [Play with Docker](https://labs.play-with-docker.com/). This app currently lives on an Ec2 instance with docker installed, it can be found [here.](http://ec2-3-91-152-222.compute-1.amazonaws.com:8501/)
+See below for a demo of the streamlit app I created using the model trained for this project. I further put the app inside of a docker container for ease of running. The screenshots and clip are from a test container deployment on [Play with Docker](https://labs.play-with-docker.com/). This app currently lives on a free tier EC2 instance with docker installed, it can be found [here](http://ec2-3-91-152-222.compute-1.amazonaws.com:8501/), but please be patient, it uses burstable performance with limited [CPU credits](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html) and is subject to being down for periods if overused. 
 ![demo](ss1.png)
 ![demo](ss2.png)
 ![demo](app_gif.gif)
